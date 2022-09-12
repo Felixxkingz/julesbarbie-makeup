@@ -1,0 +1,73 @@
+div#yourdiv {
+  height: 100%;
+}
+.bg-primary {
+  background-color: rgb(204, 148, 7);
+  color: #fff;
+}
+.bg-black {
+  background-color: black;
+  color: rgb(204, 148, 7);
+}
+.bg-secondary {
+  background-color: rgb(102, 7, 7);
+  color: #fff;
+}
+.text-primary {
+  color: rgb(204, 148, 7);
+}
+
+.text-secondary {
+  color: rgb(102, 7, 7);
+}
+
+.chi {
+  background-color: black;
+  padding: 10px 30px 10px 30px;
+
+  color: #fff;
+  border-radius: 50%;
+  margin: 20px 20px;
+  font-size: 50px;
+}
+.btn {
+  display: inline-block;
+  cursor: pointer;
+  padding: 3px 10px;
+  border: none;
+  border-radius: 5px;
+  background-color: rgb(204, 148, 7);
+  color: #fff;
+}
+.btn:hover {
+  opacity: 0.9;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: rgb(102, 7, 7);
+}
+
+.content {
+  background-color: rgb(102, 7, 7);
+}
+/* section header */
+.section-header {
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.section-header h2 {
+  font-size: 40px;
+  margin: 20px 0;
+}
+
+.section-padding {
+  padding: 20px 20px 40px;
+}
+#complexion {
+  padding: -40px -40px -80px;
+}
